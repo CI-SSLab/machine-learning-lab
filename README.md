@@ -1,4 +1,7 @@
-# machine-learning-lab
+# Machine Learning II - Laboratory
+
+This repository is a collections of tutorials showed during the Machine Learning II course at University of Naples Parthenope
+
 
 ### PyTorch Intro
 https://colab.research.google.com/drive/1mKyQng-HYQVYKLoumq488OS-qyh4tVC2?usp=sharing
